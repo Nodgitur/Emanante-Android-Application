@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/account_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="240dp"
+        android:layout_marginBottom="120dp"
+        android:textColor="#1B5E20"
+        app:showAsAction="ifRoom"
+        android:title="@string/sign_out" />
+
+    <item
+        android:id="@+id/notifications_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="120dp"
+        android:icon="@drawable/notifications_icon"
+        android:text="@string/notifications"
+        android:textColor="#1B5E20"
+        android:title="@string/notifications"
+        app:showAsAction="ifRoom" />
+
+</menu>

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Emanate</string>
+    <string name="button">Get Metrics</string>
+    <string name="display_node_metrics">Display Node Metrics</string>
+    <string name="node_id">Null</string>
+    <string name="main_activity_description">Here you can insert a node id of any of the nodes on
+        expeditions. Any notifications where a hiker may be in trouble can be accessed through the
+        bell icon above. This is where you will be directed to when the notifications are accessed.
+        For security purposes, node ids entered below must be exactly correct!
+    </string>
+    <string name="humidity">Null</string>
+    <string name="local_pressure">Null</string>
+    <string name="locale">Null</string>
+    <string name="gas">Null</string>
+    <string name="node_id_typed">xEm-*Numbers*</string>
+    <string name="altitude">Null</string>
+    <string name="temperature">Null</string>
+    <string name="title_activity_test">TestActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="notifications">Notifications</string>
+    <string name="node_alerts">Node Alerts</string>
+    <string name="description">Description</string>
+    <string name="node_id_tag">Node Id</string>
+    <string name="metrics">Metrics</string>
+    <string name="humidity_tag">Humidity:</string>
+    <string name="locale_tag">Locale:</string>
+    <string name="altitude_tag">Altitude:</string>
+    <string name="gas_tag">Gas:</string>
+    <string name="local_pressure_tag">Pressure:</string>
+    <string name="temperature_tag">Temperature:</string>
+    <string name="type_your_password">Type Your Password</string>
+    <string name="type_your_email">Type your Email</string>
+    <string name="retype_your_password">Retype Your Password</string>
+    <string name="sign_in_here">Sign In Here</string>
+    <string name="log_out">Log out</string>
+    <string name="time">Time</string>
+    <string name="account">account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+</resources>

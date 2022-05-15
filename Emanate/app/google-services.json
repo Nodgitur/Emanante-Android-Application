@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734453023589",
+    "firebase_url": "https://emanate-f412d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "emanate-f412d",
+    "storage_bucket": "emanate-f412d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734453023589:android:29bf3ef9d0a872c9cfd78c",
+        "android_client_info": {
+          "package_name": "com.example.emanate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734453023589-5bhvm353ov3bvjvqeqphtd1vr4r95653.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXcU4kRuKdVh3j5jzZl9Mhd9Q84b1PyqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734453023589-5bhvm353ov3bvjvqeqphtd1vr4r95653.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
